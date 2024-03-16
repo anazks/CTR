@@ -1,0 +1,1 @@
+export const ImgUrl = "http://localhost:4000/Images/Adds";
